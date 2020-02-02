@@ -1,0 +1,99 @@
+body {
+	background-color: white;
+
+}
+h1 {
+  color: white;
+  text-align: center;
+  background-color: lightgrey;
+  font-family: Roboto;
+  border: 5px solid white;
+  font-weight: 2000;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 75px;
+  margin-left: 40px;
+  
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+p {
+  color: white;
+  text-shadow: 3px 2px grey;
+  
+  background-color: lightgrey;
+  border-left: 6px solid darkgrey;
+  
+  font-family: Lucida Console;
+  
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+
+h7 {
+  color: almostblack; 
+  font-family: Roboto;
+  
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+
+
+a:link, a:visited {
+  background-color: darkgrey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkgrey;
+  position:fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: almostblack;
+}
