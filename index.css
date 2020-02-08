@@ -47,6 +47,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: Lucida Console;
 }
 
 a:hover, a:active {
