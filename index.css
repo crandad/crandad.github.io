@@ -10,7 +10,7 @@ a {
 	
 a:link, a:visited {
   color: white;
-  text-shadow: 1px 1px white;
+  text-shadow: 3px 1px lightgrey;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
@@ -37,20 +37,27 @@ ul {
 }
 
 h2 {
-	font-size: 90px;
+	font-size: 75px;
 }
 
 h3 {
-	font-size: 125px;
+	font-size: 100px;
 }
 
 p {
 	font-size: 25px;
 }
 
+h4 {
+	text-align: center;
+	font-size: 60px;
+	font-family: Comic Sans MS;
+	color: red;
+	text-shadow: 2px 2px purple;
+}
 
 p, h3, h2 {
-    text-shadow: 3px 2px white;
+    text-shadow: 4px 2px lightgrey;
 	text-align: center;
 	color: white;
 }
